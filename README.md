@@ -23,15 +23,142 @@ It does not bypass Linux security, provide root access, or make every Linux appl
 
 ## Install in ChatGPT or Codex
 
-Download or clone this repository, then install the ubuntu-desktop-control folder as a skill. In ChatGPT, use **Plugins → Skills → Create → Upload from your computer** and review the files before installing them. OpenAI's official guide is [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt/).
+# Use This Repository with ChatGPT Skills
 
-For local Codex, copy the folder to:
+Follow the steps below to load the skills contained in this repository into your ChatGPT Work session.
 
-~~~text
-~/.codex/skills/ubuntu-desktop-control/
-~~~
+**1. Download or Clone the Repository**
 
-Then invoke it explicitly with $ubuntu-desktop-control.
+Download this repository as a ZIP file, or clone it using Git.
+
+After downloading, open the repository folder.
+
+**2. Unzip the Required File**
+
+Inside the repository, find the file named:
+
+```text
+UnZip-it-first
+```
+
+Unzip/extract this file.
+
+After extraction, you should have:
+
+* `README.md`
+* Two additional folders containing the skill files
+
+Keep the entire structure intact.
+
+**3. Copy the Folder Path**
+
+Copy the **full path of the repository folder** containing:
+
+```text
+README.md
++ Folder 1
++ Folder 2
+```
+
+For example:
+
+on Linux:
+
+```text
+/home/yourname/Downloads/repository-name
+```
+
+**4. Open ChatGPT Work**
+
+Open your ChatGPT **Work** session where you want to use these skills.
+
+Paste the repository/folder path into the conversation and use the following prompt.
+
+**5. Paste This Prompt**
+
+```text
+Please scan and analyze the entire folder at this path:
+
+[PASTE THE FULL FOLDER PATH HERE]
+
+I want you to fully inspect the repository, including:
+
+- README.md
+- Both folders extracted from "UnZip-it-first"
+- All files and subfolders inside those folders
+- Any skill definitions, instructions, documentation, examples, configuration files, scripts, or supporting resources
+
+Do not analyze only the README.md. Recursively inspect the complete folder structure.
+
+Your tasks:
+
+1. Identify every skill contained in the repository.
+2. Read and understand each skill's instructions, purpose, workflow, requirements, constraints, and usage patterns.
+3. Understand how the skills relate to each other.
+4. Identify important dependencies, tools, commands, file structures, conventions, and prerequisites.
+5. Determine how each skill should be used in future tasks.
+6. Pay attention to any priority rules, safety restrictions, required workflows, or instructions that must be followed.
+7. Do not skip files just because they appear secondary or technical.
+8. Check for duplicate, conflicting, outdated, or overlapping instructions and explain how they should be resolved.
+9. Build a clear internal understanding of the complete skill system.
+
+After analyzing everything, treat these skills as reusable knowledge for this ChatGPT Work session.
+
+When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again.
+
+Important:
+- Do not modify, delete, rename, or move any files.
+- Do not execute anything unless it is necessary for understanding the repository.
+- Do not assume a file's purpose without reading it.
+- Do not stop after finding the first skill.
+- Recursively inspect the entire repository.
+- Base your understanding on the actual contents of the files.
+
+At the end, provide me with:
+
+A. A complete list of all discovered skills
+B. A short explanation of what each skill does
+C. The important rules/workflows you learned
+D. Any dependencies or prerequisites
+E. Any conflicts, missing files, or problems you found
+F. A concise summary confirming that you analyzed the entire folder
+
+Most importantly, preserve the useful instructions from these files as reusable skill knowledge for this Work session.
+```
+
+**6. Important Note**
+
+ChatGPT's official documentation explains how Skills work and how they can be used in ChatGPT.
+
+Official guide:
+
+https://help.openai.com/en/articles/20001066-skills-in-chatgpt/
+
+### Folder Structure
+
+Your final folder should look approximately like this:
+
+```text
+repository-name/
+│
+├── README.md
+│
+├── folder-1/
+│   ├── ...
+│   └── ...
+│
+└── folder-2/
+    ├── ...
+    └── ...
+```
+
+**Important**
+
+Use the **parent repository folder path**, not the path of only one individual skill folder.
+
+The goal is for ChatGPT to inspect the **entire repository**, understand the complete skill collection, and use the relevant instructions during future work.
+
+
 
 ## Ubuntu prerequisites
 
