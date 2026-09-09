@@ -23,8 +23,6 @@ It does not bypass Linux security, provide root access, or make every Linux appl
 
 ## Install in ChatGPT or Codex
 
-# Use This Repository with ChatGPT Skills
-
 Follow the steps below to load the skills contained in this repository into your ChatGPT Work session.
 
 **1. Download or Clone the Repository**
