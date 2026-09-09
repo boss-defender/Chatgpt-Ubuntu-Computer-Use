@@ -12,16 +12,7 @@ The skill connects three pieces:
 
 It does not bypass Linux security, provide root access, or make every Linux application behave like a native Windows or macOS connector.
 
-## Repository contents
-
-- ubuntu-desktop-control/SKILL.md — reusable skill instructions.
-- ubuntu-desktop-control/README.md — skill-specific setup and helper reference.
-- ubuntu-desktop-control/agents/openai.yaml — discovery metadata.
-- ubuntu-desktop-control/scripts/portal_screenshot.py — Wayland desktop screenshot helper.
-- ubuntu-desktop-control/scripts/mutter_remote_desktop.py — GNOME/Mutter pointer and keyboard helper.
-- ubuntu-desktop-control/scripts/check_environment.py — read-only prerequisite check.
-
-## Install in ChatGPT or Codex
+# Install in ChatGPT or Codex
 
 Follow the steps below to load the skills contained in this repository into your ChatGPT Work session.
 
