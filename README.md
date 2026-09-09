@@ -91,9 +91,9 @@ Your tasks:
 8. Check for duplicate, conflicting, outdated, or overlapping instructions and explain how they should be resolved.
 9. Build a clear internal understanding of the complete skill system.
 
-After analyzing everything, treat these skills as reusable knowledge for this ChatGPT Work session.
+After analyzing everything, treat these skills as reusable knowledge for ChatGPT Work.
 
-When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again.
+When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills.
 
 Important:
 - Do not modify, delete, rename, or move any files.
@@ -112,7 +112,7 @@ D. Any dependencies or prerequisites
 E. Any conflicts, missing files, or problems you found
 F. A concise summary confirming that you analyzed the entire folder
 
-Most importantly, preserve the useful instructions from these files as reusable skill knowledge for this Work session.
+Most importantly, preserve the useful instructions from these files as reusable skill knowledge for Work.
 ```
 
 **6. Important Note**
