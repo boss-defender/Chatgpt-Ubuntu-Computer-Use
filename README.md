@@ -104,6 +104,7 @@ Important:
 - Do not stop after finding the first skill.
 - Recursively inspect the entire repository.
 - Base your understanding on the actual contents of the files.
+- Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , then create it.
 
 At the end, provide me with:
 
