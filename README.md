@@ -27,7 +27,7 @@ After downloading, open the repository folder.
 Inside the repository, find the file named:
 
 ```text
-UnZip-it-first
+UnZip-it-first.zip
 ```
 
 Unzip/extract this file.
