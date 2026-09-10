@@ -54,7 +54,7 @@ For example:
 on Linux:
 
 ```text
-/home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/
+/home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/UnZip-it-first/
 ```
 
 **4. Open ChatGPT Work**
