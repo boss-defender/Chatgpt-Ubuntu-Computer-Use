@@ -37,7 +37,7 @@ After extraction, you should have:
 * `README.md`
 * Two additional folders containing the skill files
 
-Keep the entire structure intact. But you can delete now the zip file. 
+Keep the entire structure intact. But you can now delete the zip file. 
 
 **3. Copy the Folder Path**
 
