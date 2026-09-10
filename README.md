@@ -69,12 +69,12 @@ Paste the repository/folder path into the conversation and use the following pro
 Please scan and analyze the entire folder at this path:
 
 [PASTE THE FULL FOLDER PATH HERE]
-examples: /home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/UnZip-it-first/
+example: /home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/UnZip-it-first/
 
 I want you to fully inspect the repository, including:
 
 - README.md
-- Both folders extracted from "UnZip-it-first"
+- Both folders 
 - All files and subfolders inside those folders
 - Any skill definitions, instructions, documentation, examples, configuration files, scripts, or supporting resources
 
