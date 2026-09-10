@@ -90,10 +90,11 @@ Your tasks:
 7. Do not skip files just because they appear secondary or technical.
 8. Check for duplicate, conflicting, outdated, or overlapping instructions and explain how they should be resolved.
 9. Build a clear internal understanding of the complete skill system.
+10. Install all necessary dependencies.
 
 After analyzing everything, treat these skills as reusable knowledge for ChatGPT Work.
 
-When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills.
+When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies.
 
 Important:
 - Do not modify, delete, rename, or move any files.
