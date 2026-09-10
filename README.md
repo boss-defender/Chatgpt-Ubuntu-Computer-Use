@@ -45,8 +45,8 @@ Copy the **full path of the repository folder** containing:
 
 ```text
 README.md
-+ Folder 1
-+ Folder 2
++ Ubuntu_Chatgpt
++ ubuntu-desktop-control
 ```
 
 For example:
@@ -54,7 +54,7 @@ For example:
 on Linux:
 
 ```text
-/home/yourname/Downloads/repository-name
+/home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/
 ```
 
 **4. Open ChatGPT Work**
