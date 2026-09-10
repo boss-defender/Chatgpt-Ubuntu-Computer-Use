@@ -91,11 +91,11 @@ Your tasks:
 7. Do not skip files just because they appear secondary or technical.
 8. Check for duplicate, conflicting, outdated, or overlapping instructions and explain how they should be resolved.
 9. Build a clear internal understanding of the complete skill system.
-10. Install all necessary dependencies.
+10. Install all necessary dependencies. and all the skills . 
 
 After analyzing everything, treat these skills as reusable knowledge for ChatGPT Work.
 
-When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies. Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , create it. 
+Install the skills and when appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies. Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , create it. 
 
 Important:
 - Do not modify, delete, rename, or move any files.
@@ -105,6 +105,7 @@ Important:
 - Recursively inspect the entire repository.
 - Base your understanding on the actual contents of the files.
 - Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , then create it.
+- Install the skills and necessary dependencies. 
 
 
 At the end, provide me with:
@@ -115,6 +116,7 @@ C. The important rules/workflows you learned
 D. Any dependencies or prerequisites
 E. Any conflicts, missing files, or problems you found
 F. A concise summary confirming that you analyzed the entire folder
+G. Do you install/add the skills for future work session ?
 
 Most importantly, preserve the useful instructions from these files as reusable skill knowledge for Work.
 ```
