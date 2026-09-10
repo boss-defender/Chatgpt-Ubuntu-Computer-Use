@@ -95,7 +95,7 @@ Your tasks:
 
 After analyzing everything, treat these skills as reusable knowledge for ChatGPT Work.
 
-When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies.
+When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies. Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , create it. 
 
 Important:
 - Do not modify, delete, rename, or move any files.
