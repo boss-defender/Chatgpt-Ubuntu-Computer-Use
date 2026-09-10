@@ -106,6 +106,7 @@ Important:
 - Base your understanding on the actual contents of the files.
 - Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , then create it.
 
+
 At the end, provide me with:
 
 A. A complete list of all discovered skills
