@@ -69,6 +69,7 @@ Paste the repository/folder path into the conversation and use the following pro
 Please scan and analyze the entire folder at this path:
 
 [PASTE THE FULL FOLDER PATH HERE]
+examples: /home/yourname/Downloads/Chatgpt-Ubuntu-Computer-Use/UnZip-it-first/
 
 I want you to fully inspect the repository, including:
 
