@@ -1,0 +1,7 @@
+{"action": {"type": "screenshot"}, "event": "proposed", "timestamp": "2026-09-09T07:35:48.881447+00:00"}
+{"action": {"button": "left", "type": "click", "x": 240, "y": 160}, "event": "proposed", "timestamp": "2026-09-09T07:35:48.881550+00:00"}
+{"action": {"type": "screenshot"}, "event": "proposed", "timestamp": "2026-09-09T07:36:00.547017+00:00"}
+{"action": {"button": "left", "type": "click", "x": 240, "y": 160}, "event": "proposed", "timestamp": "2026-09-09T07:36:00.547096+00:00"}
+{"action": {"button": "left", "type": "click", "x": 240, "y": 160}, "event": "approved", "timestamp": "2026-09-09T07:36:00.547128+00:00"}
+{"action": {"text": "Ubuntu companion demo", "type": "type"}, "event": "proposed", "timestamp": "2026-09-09T07:36:00.547154+00:00"}
+{"action": {"text": "Ubuntu companion demo", "type": "type"}, "event": "approved", "timestamp": "2026-09-09T07:36:00.547175+00:00"}
