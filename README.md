@@ -16,30 +16,12 @@ It does not bypass Linux security, provide root access, or make every Linux appl
 
 Follow the steps below to load the skills contained in this repository into your ChatGPT Work session.
 
-**1. Download or Clone the Repository**
-
-Download this repository as a ZIP file, or clone it using Git.
-
-After downloading, open the repository folder.
-
-**2. Unzip the Required File**
-
-Inside the repository, find the file named:
-
-```text
-UnZip-it-first.zip
-```
-
-Unzip/extract this file.
-
-After extraction, you should have:
-
 * `README.md`
 * Two additional folders containing the skill files
 
 Keep the entire structure intact. But you can now delete the zip file. 
 
-**3. Copy the Folder Path**
+**1. Copy the Folder Path**
 
 Copy the **full path of the repository folder** containing:
 
@@ -57,13 +39,13 @@ on Linux:
 /home/username/Downloads/Chatgpt-Ubuntu-Computer-Use/UnZip-it-first/
 ```
 
-**4. Open ChatGPT Work**
+**2. Open ChatGPT Work**
 
 Open your ChatGPT **Work** session where you want to use these skills.
 
 Paste the repository/folder path into the conversation and use the following prompt.
 
-**5. Paste This Prompt**
+**3. Paste This Prompt**
 
 ```text
 Please scan and analyze the entire folder at this path:
@@ -90,10 +72,10 @@ Your tasks:
 6. Pay attention to any priority rules, safety restrictions, required workflows, or instructions that must be followed.
 7. Do not skip files just because they appear secondary or technical.
 8. Check for duplicate, conflicting, outdated, or overlapping instructions and explain how they should be resolved.
-9. Build a clear internal understanding of the complete skill system.
-10. Install all necessary dependencies.
+9. Build a clear internal understanding of the complete skill system. 
+10. Install all skills and also install all necessary dependencies.
 
-After analyzing everything, treat these skills as reusable knowledge for ChatGPT Work.
+After analyzing everything and installing skills, set these skills permanently for future ChatGPT Work session.
 
 When appropriate in future tasks, use the relevant skill instructions automatically instead of asking me to explain them again. So save it or keep it as your additional skills and install all necessary dependencies. Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , create it. 
 
@@ -105,6 +87,7 @@ Important:
 - Recursively inspect the entire repository.
 - Base your understanding on the actual contents of the files.
 - Remember if you wanna use screenshots , then you should save screenshots somewhere like "/home/boss/.codex/Screenshots_taken_chatgpt/"   folder. if directory don't exist , then create it.
+- Set these skills permanently for future ChatGPT Work session
 
 At the end, provide me with:
 
@@ -114,11 +97,12 @@ C. The important rules/workflows you learned
 D. Any dependencies or prerequisites
 E. Any conflicts, missing files, or problems you found
 F. A concise summary confirming that you analyzed the entire folder
+G. Do you set these skills permanently for future ChatGPT Work session ?
 
 Most importantly, preserve the useful instructions from these files as reusable skill knowledge for Work.
 ```
 
-**6. Important Note**
+**4. Important Note**
 
 ChatGPT's official documentation explains how Skills work and how they can be used in ChatGPT.
 
