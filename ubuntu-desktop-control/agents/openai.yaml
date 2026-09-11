@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ubuntu Desktop Control"
+  short_description: "Control and verify Ubuntu desktop apps"
+  default_prompt: "Use $ubuntu-desktop-control to inspect and safely operate the visible Ubuntu desktop, using compositor screenshots and verified pointer input when native app control is unavailable."
