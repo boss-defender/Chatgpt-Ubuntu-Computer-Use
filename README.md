@@ -243,3 +243,8 @@ python3 ubuntu-desktop-control/scripts/check_environment.py
 ~~~
 
 The environment check is read-only. Do not report a live desktop action as complete unless a fresh screenshot visibly confirms it.
+
+## For wider range capable chatgpt for linux: 
+
+**https://github.com/ilysenko/codex-desktop-linux**
+
